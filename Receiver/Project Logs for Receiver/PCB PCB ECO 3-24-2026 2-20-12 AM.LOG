@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MADV_MCU Pin=J1-6
+Removed Pin From Net: NetName=RxRST_MCU Pin=J1-7
+Added Pin To Net: NetName=RxRST_MCU Pin=J1-6
+Added Pin To Net: NetName=MADV_MCU Pin=J1-7

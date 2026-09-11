@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=IFOUT3_P Pin=J8-1
+Removed Pin From Net: NetName=IFOUT3_N Pin=J8-3
+Removed Pin From Net: NetName=IFOUT4_P Pin=J8-5
+Removed Pin From Net: NetName=IFOUT4_N Pin=J8-7
+Added Pin To Net: NetName=IFOUT3_N Pin=J8-1
+Added Pin To Net: NetName=IFOUT3_P Pin=J8-3
+Added Pin To Net: NetName=IFOUT4_N Pin=J8-5
+Added Pin To Net: NetName=IFOUT4_P Pin=J8-7

@@ -1,0 +1,9 @@
+Added Differential Pair: Name=IFOUT1
+Added Differential Pair: Name=IFOUT2
+Added Differential Pair: Name=IFOUT3
+Added Differential Pair: Name=IFOUT4
+Added Differential Pair: Name=RFIN1
+Added Differential Pair: Name=RFIN2
+Added Differential Pair: Name=RFIN3
+Added Differential Pair: Name=RFIN4
+Added Member To Class: ClassName=Receiver Member=Component U2 SN74LVC8T245DGVR

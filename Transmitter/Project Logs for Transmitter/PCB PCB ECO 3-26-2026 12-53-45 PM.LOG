@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=Interface Member=T1
+Removed Member From Class: ClassName=Interface Member=T2
+Removed Member From Class: ClassName=Power Member=T3
+Removed Member From Class: ClassName=Interface Member=T4
+Added Differential Pair: Name=RFOUT1
+Added Differential Pair: Name=RFOUT2
+Added Differential Pair: Name=RFOUT3
+Added Differential Pair: Name=RFOUT4
+Added Member To Class: ClassName=Interface Member=Component U2 SN74LVC8T245DGVR
+Added Member To Class: ClassName=Interface Member=Component U3 74AXP2T45DCH
+Added Member To Class: ClassName=Power Member=Component U4 ADP7156ARDZ-2.5-R7
+Added Member To Class: ClassName=Interface Member=Component U5 74AXP2T45DCH

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=RFOUT1_N Pin=T1-4
+Removed Pin From Net: NetName=RFOUT1_P Pin=T1-6
+Removed Pin From Net: NetName=RFOUT2_N Pin=T2-4
+Removed Pin From Net: NetName=RFOUT2_P Pin=T2-6
+Added Pin To Net: NetName=RFOUT1_P Pin=T1-4
+Added Pin To Net: NetName=RFOUT1_N Pin=T1-6
+Added Pin To Net: NetName=RFOUT2_P Pin=T2-4
+Added Pin To Net: NetName=RFOUT2_N Pin=T2-6

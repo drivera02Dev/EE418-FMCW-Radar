@@ -1,0 +1,109 @@
+Removed Pin From Net: NetName=GND Pin=U2-22
+Removed Pin From Net: NetName=GND Pin=U3-5
+Added Component: Designator=R6(FP-RC0603-0_55-IPC_C)
+Add component (AddParameter): Name = "Additional Feature"; Value = "LASER TRIMMABLE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-609 Code"; Value = "e3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Shape"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "FIXED RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "METAL GLAZE/THICK FILM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient (ppm/Cel)"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Finish"; Value = "Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Wraparound"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R7(FP-RC0603-0_55-IPC_C)
+Add component (AddParameter): Name = "Additional Feature"; Value = "LASER TRIMMABLE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-609 Code"; Value = "e3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Shape"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "FIXED RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "METAL GLAZE/THICK FILM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient (ppm/Cel)"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Finish"; Value = "Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Wraparound"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(Test Point - 32 mil-Footprint-1)
+Added Component: Designator=TP2(Test Point - 32 mil-Footprint-1)
+Added Component: Designator=TP3(Test Point - 32 mil-Footprint-1)
+Added Component: Designator=TP4(Test Point - 32 mil-Footprint-1)
+Added Component: Designator=TP5(Test Point - 32 mil-Footprint-1)
+Added Component: Designator=TP6(Test Point - 32 mil-Footprint-1)
+Added Component: Designator=TP7(Test Point - 32 mil-Footprint-1)
+Added Component: Designator=TP8(Test Point - 32 mil-Footprint-1)
+Added Component: Designator=TP9(Test Point - 32 mil-Footprint-1)
+Added Component: Designator=TP10(Test Point - 32 mil-Footprint-1)
+Added Component: Designator=TP11(Test Point - 32 mil-Footprint-1)
+Added Component: Designator=TP12(Test Point - 32 mil-Footprint-1)
+Added Component: Designator=TP13(Test Point - 32 mil-Footprint-1)
+Added Component: Designator=TP14(Test Point - 32 mil-Footprint-1)
+Added Component: Designator=TP15(Test Point - 32 mil-Footprint-1)
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=SCLK_ADAR Pin=TP1-1
+Added Pin To Net: NetName=SDIO_ADAR Pin=TP2-1
+Added Pin To Net: NetName=CS_ADAR Pin=TP3-1
+Added Pin To Net: NetName=SDO_ADAR Pin=TP4-1
+Added Pin To Net: NetName=SCK Pin=TP5-1
+Added Pin To Net: NetName=MOSI Pin=TP6-1
+Added Pin To Net: NetName=CS Pin=TP7-1
+Added Pin To Net: NetName=MISO Pin=TP8-1
+Added Pin To Net: NetName=NetR3_1 Pin=TP9-1
+Added Pin To Net: NetName=GPIO_DIR Pin=TP11-1
+Added Pin To Net: NetName=NetC23_1 Pin=TP13-1
+Added Pin To Net: NetName=NetC24_1 Pin=TP14-1
+Added Pin To Net: NetName=NetC22_1 Pin=TP15-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=TP10-1
+Added Pin To Net: NetName=NetR6_2 Pin=U2-22
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=TP12-1
+Added Pin To Net: NetName=NetR7_2 Pin=U3-5
+Added Net: Name=NetR7_2
+Added Member To Class: ClassName=Interface Member=Component R6 10 kO
+Added Member To Class: ClassName=Interface Member=Component R7 10 kO
+Added Member To Class: ClassName=Transmitter Member=Component TP1 Test Point - 32 mil
+Added Member To Class: ClassName=Transmitter Member=Component TP2 Test Point - 32 mil
+Added Member To Class: ClassName=Transmitter Member=Component TP3 Test Point - 32 mil
+Added Member To Class: ClassName=Transmitter Member=Component TP4 Test Point - 32 mil
+Added Member To Class: ClassName=Transmitter Member=Component TP5 Test Point - 32 mil
+Added Member To Class: ClassName=Transmitter Member=Component TP6 Test Point - 32 mil
+Added Member To Class: ClassName=Transmitter Member=Component TP7 Test Point - 32 mil
+Added Member To Class: ClassName=Transmitter Member=Component TP8 Test Point - 32 mil
+Added Member To Class: ClassName=Interface Member=Component TP9 Test Point - 32 mil
+Added Member To Class: ClassName=Interface Member=Component TP10 Test Point - 32 mil
+Added Member To Class: ClassName=Interface Member=Component TP11 Test Point - 32 mil
+Added Member To Class: ClassName=Interface Member=Component TP12 Test Point - 32 mil
+Added Member To Class: ClassName=Power Member=Component TP13 Test Point - 32 mil
+Added Member To Class: ClassName=Power Member=Component TP14 Test Point - 32 mil
+Added Member To Class: ClassName=Power Member=Component TP15 Test Point - 32 mil

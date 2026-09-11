@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=CS_MCU Pin=J1-1
+Removed Pin From Net: NetName=MOSI_MCU Pin=J1-2
+Removed Pin From Net: NetName=SCK_MCU Pin=J1-3
+Removed Pin From Net: NetName=MISO_MCU Pin=J1-4
+Removed Pin From Net: NetName=MRST_MCU Pin=J1-5
+Removed Pin From Net: NetName=MADV_MCU Pin=J1-6
+Removed Pin From Net: NetName=TxRST_MCU Pin=J1-7
+Removed Pin From Net: NetName=TxADV_MCU Pin=J1-8
+Added Pin To Net: NetName=TxADV_MCU Pin=J1-1
+Added Pin To Net: NetName=TxRST_MCU Pin=J1-2
+Added Pin To Net: NetName=MADV_MCU Pin=J1-3
+Added Pin To Net: NetName=MRST_MCU Pin=J1-4
+Added Pin To Net: NetName=CS_MCU Pin=J1-5
+Added Pin To Net: NetName=SCK_MCU Pin=J1-6
+Added Pin To Net: NetName=MOSI_MCU Pin=J1-7
+Added Pin To Net: NetName=MISO_MCU Pin=J1-8

@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=CS Pin=R2-1
+Removed Pin From Net: NetName=MOSI Pin=R2-2
+Removed Pin From Net: NetName=SCK Pin=R2-3
+Removed Pin From Net: NetName=MISO Pin=R2-4
+Added Pin To Net: NetName=MISO Pin=R2-1
+Added Pin To Net: NetName=CS Pin=R2-2
+Added Pin To Net: NetName=MOSI Pin=R2-3
+Added Pin To Net: NetName=SCK Pin=R2-4
+Added Pin To Net: NetName=CS_ADAR Pin=R1-2
+Added Pin To Net: NetName=CS_ADAR Pin=R2-7
+Added Pin To Net: NetName=CS_ADAR Pin=U1-25
+Added Net: Name=CS_ADAR
+Added Pin To Net: NetName=MISO_ADAR Pin=R2-8
+Added Pin To Net: NetName=MISO_ADAR Pin=U1-24
+Added Net: Name=MISO_ADAR
+Added Pin To Net: NetName=MOSI_ADAR Pin=R2-6
+Added Pin To Net: NetName=MOSI_ADAR Pin=U1-26
+Added Net: Name=MOSI_ADAR
+Added Pin To Net: NetName=SCK_ADAR Pin=R2-5
+Added Pin To Net: NetName=SCK_ADAR Pin=U1-27
+Added Net: Name=SCK_ADAR

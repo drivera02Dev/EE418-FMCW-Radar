@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=MRST_MCU Pin=U2-5
+Removed Pin From Net: NetName=RxRST_MCU Pin=U2-6
+Removed Pin From Net: NetName=MADV_MCU Pin=U2-7
+Removed Pin From Net: NetName=RxADV_MCU Pin=U2-8
+Removed Pin From Net: NetName=RxADV Pin=U2-16
+Removed Pin From Net: NetName=MADV Pin=U2-17
+Removed Pin From Net: NetName=RxRST Pin=U2-18
+Removed Pin From Net: NetName=MRST Pin=U2-19
+Added Pin To Net: NetName=RxRST_MCU Pin=U2-5
+Added Pin To Net: NetName=RxADV_MCU Pin=U2-6
+Added Pin To Net: NetName=MRST_MCU Pin=U2-7
+Added Pin To Net: NetName=MADV_MCU Pin=U2-8
+Added Pin To Net: NetName=MADV Pin=U2-16
+Added Pin To Net: NetName=MRST Pin=U2-17
+Added Pin To Net: NetName=RxADV Pin=U2-18
+Added Pin To Net: NetName=RxRST Pin=U2-19

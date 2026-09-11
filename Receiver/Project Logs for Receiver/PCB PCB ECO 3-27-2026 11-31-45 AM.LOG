@@ -1,0 +1,12 @@
+Change Net Name : Old Net Name=NetC26_2 New Net Name=IFOUT1_CAP_P
+Change Net Name : Old Net Name=NetC27_2 New Net Name=IFOUT1_CAP_N
+Change Net Name : Old Net Name=NetC28_2 New Net Name=IFOUT2_CAP_P
+Change Net Name : Old Net Name=NetC29_2 New Net Name=IFOUT2_CAP_N
+Change Net Name : Old Net Name=NetC30_2 New Net Name=IFOUT3_CAP_N
+Change Net Name : Old Net Name=NetC31_2 New Net Name=IFOUT3_CAP_P
+Change Net Name : Old Net Name=NetC32_2 New Net Name=IFOUT4_CAP_N
+Change Net Name : Old Net Name=NetC33_2 New Net Name=IFOUT4_CAP_P
+Added Differential Pair: Name=IFOUT1_CAP
+Added Differential Pair: Name=IFOUT2_CAP
+Added Differential Pair: Name=IFOUT3_CAP
+Added Differential Pair: Name=IFOUT4_CAP

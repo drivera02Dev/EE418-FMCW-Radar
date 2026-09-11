@@ -1,0 +1,12 @@
+Added Component: Designator=TP16(Test Point - 32 mil-Footprint-1)
+Added Component: Designator=TP17(Test Point - 32 mil-Footprint-1)
+Added Component: Designator=TP18(Test Point - 32 mil-Footprint-1)
+Added Component: Designator=TP19(Test Point - 32 mil-Footprint-1)
+Added Pin To Net: NetName=TxADV Pin=TP16-1
+Added Pin To Net: NetName=TxRST Pin=TP17-1
+Added Pin To Net: NetName=MADV Pin=TP18-1
+Added Pin To Net: NetName=MRST Pin=TP19-1
+Added Member To Class: ClassName=Interface Member=Component TP16 Test Point - 32 mil
+Added Member To Class: ClassName=Interface Member=Component TP17 Test Point - 32 mil
+Added Member To Class: ClassName=Interface Member=Component TP18 Test Point - 32 mil
+Added Member To Class: ClassName=Interface Member=Component TP19 Test Point - 32 mil
